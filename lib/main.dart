@@ -6,5 +6,5 @@ void main() {
   Directory Dir = new Directory("asd");
   Dir.sayName2();
   String asd = Dir.getName;
-  print("Ghby"+asd);
+  print("Ghby__2"+asd);
 }
